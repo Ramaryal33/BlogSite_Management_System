@@ -1,0 +1,677 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\views\\blogpost\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:views\\blogpost\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\views\\blogpost\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:views\\blogpost\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\views\\blogpost\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:views\\blogpost\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\views\\blogpost\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:views\\blogpost\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\views\\blogcategory\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:views\\blogcategory\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\models\\viewmodels\\editviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:models\\viewmodels\\editviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\controllers\\blogpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:controllers\\blogpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\models\\viewmodels\\postviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:models\\viewmodels\\postviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\views\\blogpost\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:views\\blogpost\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\helpermurky\\removehtmltaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:helpermurky\\removehtmltaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\models\\viewmodels\\murkydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:models\\viewmodels\\murkydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\entities\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:entities\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\views\\blogcategory\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:views\\blogcategory\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\views\\blogcategory\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:views\\blogcategory\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\models\\viewmodels\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:models\\viewmodels\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\views\\blogcategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:views\\blogcategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\models\\viewmodels\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:models\\viewmodels\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\controllers\\blogcatagorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:controllers\\blogcatagorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\views\\auth\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:views\\auth\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\models\\blogcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:models\\blogcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\models\\blogcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:models\\blogcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\migrations\\20250501043607_initialdatabasetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:migrations\\20250501043607_initialdatabasetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\murkypluse.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:murkypluse.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\migrations\\murkydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:migrations\\murkydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\migrations\\20250501001601_initialidentitysetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:migrations\\20250501001601_initialidentitysetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\migrations\\20250430041241_seddinginitialdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:migrations\\20250430041241_seddinginitialdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\migrations\\20250430040248_createinitialdatabasetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:migrations\\20250430040248_createinitialdatabasetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\wwwroot\\images\\69326522-5486-4074-9bdc-38e96cfe2a97.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:wwwroot\\images\\69326522-5486-4074-9bdc-38e96cfe2a97.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|c:\\users\\nitro5\\desktop\\.net projects\\murkypluse\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{451C2A0A-02E7-4EED-97D7-3FA06C87A15F}|MurkyPluse.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Views\\Auth\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Views\\Auth\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Views\\Auth\\AccessDenied.cshtml",
+              "RelativeToolTip": "Views\\Auth\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T12:18:31.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-01T06:35:38.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250501043607_InitialDatabaseTable.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Migrations\\20250501043607_InitialDatabaseTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250501043607_InitialDatabaseTable.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Migrations\\20250501043607_InitialDatabaseTable.cs",
+              "RelativeToolTip": "Migrations\\20250501043607_InitialDatabaseTable.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T04:36:08.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MurkyDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Migrations\\MurkyDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\MurkyDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Migrations\\MurkyDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\MurkyDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T00:17:48.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250501001601_InitialIdentitySetup.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Migrations\\20250501001601_InitialIdentitySetup.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250501001601_InitialIdentitySetup.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Migrations\\20250501001601_InitialIdentitySetup.cs",
+              "RelativeToolTip": "Migrations\\20250501001601_InitialIdentitySetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T00:16:01.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DatabaseSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Entities\\DatabaseSeeder.cs",
+              "RelativeDocumentMoniker": "Entities\\DatabaseSeeder.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Entities\\DatabaseSeeder.cs",
+              "RelativeToolTip": "Entities\\DatabaseSeeder.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowGQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T00:07:01.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Views\\Auth\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "Views\\Auth\\SignIn.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Views\\Auth\\SignIn.cshtml",
+              "RelativeToolTip": "Views\\Auth\\SignIn.cshtml",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAwGgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T23:38:14.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Views\\Auth\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "Views\\Auth\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Views\\Auth\\SignUp.cshtml",
+              "RelativeToolTip": "Views\\Auth\\SignUp.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAkwFIAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T23:37:47.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SignUpViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Models\\ViewModels\\SignUpViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\SignUpViewModel.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Models\\ViewModels\\SignUpViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\SignUpViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:35:14.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SignInViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Models\\ViewModels\\SignInViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\SignInViewModel.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Models\\ViewModels\\SignInViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\SignInViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:34:08.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:32:28.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:15:25.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Views\\BlogCategory\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\BlogCategory\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Views\\BlogCategory\\Index.cshtml",
+              "RelativeToolTip": "Views\\BlogCategory\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T23:15:00.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Views\\BlogCategory\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\BlogCategory\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Views\\BlogCategory\\Delete.cshtml",
+              "RelativeToolTip": "Views\\BlogCategory\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T23:11:51.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Views\\BlogCategory\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\BlogCategory\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Views\\BlogCategory\\Edit.cshtml",
+              "RelativeToolTip": "Views\\BlogCategory\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T23:11:26.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Views\\BlogCategory\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\BlogCategory\\Create.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Views\\BlogCategory\\Create.cshtml",
+              "RelativeToolTip": "Views\\BlogCategory\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T23:10:25.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BlogCatagoryController.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Controllers\\BlogCatagoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BlogCatagoryController.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Controllers\\BlogCatagoryController.cs",
+              "RelativeToolTip": "Controllers\\BlogCatagoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:07:46.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Views\\BlogPost\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\BlogPost\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Views\\BlogPost\\Delete.cshtml",
+              "RelativeToolTip": "Views\\BlogPost\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T13:31:11.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Views\\BlogPost\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\BlogPost\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Views\\BlogPost\\Edit.cshtml",
+              "RelativeToolTip": "Views\\BlogPost\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T12:30:03.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Models\\ViewModels\\EditViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\EditViewModel.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Models\\ViewModels\\EditViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\EditViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:14:55.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Views\\BlogPost\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\BlogPost\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Views\\BlogPost\\Detail.cshtml",
+              "RelativeToolTip": "Views\\BlogPost\\Detail.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T08:51:06.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Views\\BlogPost\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\BlogPost\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Views\\BlogPost\\Index.cshtml",
+              "RelativeToolTip": "Views\\BlogPost\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T07:24:32.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RemoveHtmlTagHelper.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\HelperMurky\\RemoveHtmlTagHelper.cs",
+              "RelativeDocumentMoniker": "HelperMurky\\RemoveHtmlTagHelper.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\HelperMurky\\RemoveHtmlTagHelper.cs",
+              "RelativeToolTip": "HelperMurky\\RemoveHtmlTagHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:19:40.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "69326522-5486-4074-9bdc-38e96cfe2a97.jpg - Bitmap [2099x1181, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\wwwroot\\images\\69326522-5486-4074-9bdc-38e96cfe2a97.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\69326522-5486-4074-9bdc-38e96cfe2a97.jpg",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\wwwroot\\images\\69326522-5486-4074-9bdc-38e96cfe2a97.jpg - Bitmap [2099x1181, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\images\\69326522-5486-4074-9bdc-38e96cfe2a97.jpg - Bitmap [2099x1181, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-04-30T06:37:19.627Z",
+              "EditorCaption": " - Bitmap [2099x1181, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T05:15:59.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PostViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Models\\ViewModels\\PostViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\PostViewModel.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Models\\ViewModels\\PostViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\PostViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T04:56:26.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Views\\BlogPost\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\BlogPost\\Create.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Views\\BlogPost\\Create.cshtml",
+              "RelativeToolTip": "Views\\BlogPost\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T04:46:54.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogPostController.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Controllers\\BlogPostController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BlogPostController.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Controllers\\BlogPostController.cs",
+              "RelativeToolTip": "Controllers\\BlogPostController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAqwNsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T04:45:23.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_NavBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Views\\Shared\\_NavBar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_NavBar.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Views\\Shared\\_NavBar.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_NavBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T04:38:13.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwB4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-30T04:35:00.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwCQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-30T04:34:09.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T04:28:50.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20250430041241_SeddingInitialData.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Migrations\\20250430041241_SeddingInitialData.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250430041241_SeddingInitialData.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Migrations\\20250430041241_SeddingInitialData.cs",
+              "RelativeToolTip": "Migrations\\20250430041241_SeddingInitialData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T04:12:41.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250430040248_CreateInitialDatabaseTables.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Migrations\\20250430040248_CreateInitialDatabaseTables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250430040248_CreateInitialDatabaseTables.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Migrations\\20250430040248_CreateInitialDatabaseTables.cs",
+              "RelativeToolTip": "Migrations\\20250430040248_CreateInitialDatabaseTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T04:02:48.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T03:41:31.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAowG0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T03:38:25.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MurkyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Models\\ViewModels\\MurkyDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\MurkyDbContext.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Models\\ViewModels\\MurkyDbContext.cs",
+              "RelativeToolTip": "Models\\ViewModels\\MurkyDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wBAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T03:28:30.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MurkyPluse.csproj",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\MurkyPluse.csproj",
+              "RelativeDocumentMoniker": "MurkyPluse.csproj",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\MurkyPluse.csproj",
+              "RelativeToolTip": "MurkyPluse.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-30T03:27:32.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BlogComment.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Models\\BlogComment.cs",
+              "RelativeDocumentMoniker": "Models\\BlogComment.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Models\\BlogComment.cs",
+              "RelativeToolTip": "Models\\BlogComment.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T03:09:41.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BlogCategory.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Models\\BlogCategory.cs",
+              "RelativeDocumentMoniker": "Models\\BlogCategory.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Models\\BlogCategory.cs",
+              "RelativeToolTip": "Models\\BlogCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T03:07:24.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BlogPost.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Models\\BlogPost.cs",
+              "RelativeDocumentMoniker": "Models\\BlogPost.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\MurkyPluse\\Models\\BlogPost.cs",
+              "RelativeToolTip": "Models\\BlogPost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T03:05:57.542Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

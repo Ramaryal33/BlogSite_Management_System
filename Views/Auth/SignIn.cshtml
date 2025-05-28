@@ -1,0 +1,123 @@
+﻿@model SignInViewModel;
+
+@{
+    ViewData["Title"] = "SignIn";
+}
+
+<style>
+    body {
+        background: Black;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .sign-in-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+
+    .sign-in-card {
+        background-color: #fff;
+        border-radius: 12px;
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+        display: flex;
+        overflow: hidden;
+        max-width: 800px;
+        width: 100%;
+    }
+
+    .sign-in-left {
+        background: #007bff;
+        color: white;
+        width: 40%;
+        padding: 40px 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+        .sign-in-left h2 {
+            font-size: 26px;
+            margin-bottom: 10px;
+        }
+
+        .sign-in-left p {
+            font-size: 14px;
+            text-align: center;
+        }
+
+    .sign-in-form {
+        width: 60%;
+        padding: 40px;
+    }
+
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+    .form-control {
+        border-radius: 8px;
+        padding: 10px;
+        font-size: 15px;
+    }
+
+    .btn {
+        width: 100%;
+        padding: 12px;
+        font-weight: bold;
+        border-radius: 8px;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border: none;
+    }
+
+    .btn-secondary {
+        margin-top: 10px;
+        background-color: #6c757d;
+        border: none;
+    }
+
+    .text-danger {
+        font-size: 0.9rem;
+    }
+</style>
+
+<div class="sign-in-container">
+    <div class="sign-in-card">
+        <!-- Left Panel -->
+        <div class="sign-in-left">
+            <h2>Welcome Back!</h2>
+            <p>Sign in to continue managing your blog content and connect with your audience.</p>
+        </div>
+
+        <!-- Right Panel (Form) -->
+        <div class="sign-in-form">
+            <h3 class="mb-4">Sign In</h3>
+            <form asp-action="SignIn" method="post">
+                <div class="validation-summary">
+                    <div asp-validation-summary="All" class="text-danger"></div>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Email"></label>
+                    @* <input asp-for="Email" class="form-control" /> *@
+                    <input asp-for="Email" class="form-control" placeholder="Email Address" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Password"></label>
+                    <input asp-for="Password" class="form-control" type="password" placeholder="Password" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Sign In</button>
+                <a asp-action="Index" asp-controller="BlogPost" class="btn btn-secondary">Back</a>
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,89 @@
+﻿@model SignUpViewModel
+
+@{
+    ViewData["Title"] = "SignUp";
+}
+
+<style>
+    .sign-up {
+        padding: 40px;
+        max-width: 500px;
+        margin: 50px auto;
+        background-color: #fff;
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+        border-radius: 16px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+        .sign-up h2 {
+            text-align: center;
+            margin-bottom: 30px;
+            font-weight: 600;
+            color: #343a40;
+        }
+
+    .form-group label {
+        font-weight: 600;
+        margin-bottom: 6px;
+    }
+
+    .form-control {
+        border-radius: 10px;
+        padding: 12px;
+        font-size: 15px;
+    }
+
+    .btn {
+        padding: 10px 16px;
+        border-radius: 10px;
+        font-weight: bold;
+    }
+
+    .btn-primary {
+        width: 100%;
+        background-color: #0d6efd;
+        border: none;
+    }
+
+    .btn-secondary {
+        width: 100%;
+        background-color: #6c757d;
+        margin-top: 10px;
+        border: none;
+    }
+
+    .text-danger {
+        font-size: 0.9rem;
+    }
+</style>
+
+<div class="sign-up">
+    <h2>Create an Account</h2>
+    <form asp-action="SignUp" method="post">
+        <div class="validation-summary">
+            <div asp-validation-summary="All" class="text-danger"></div>
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="Email"></label>
+            <input asp-for="Email" class="form-control" placeholder="Email Address" />
+            @* <input asp-for="Email" class="form-control" /> *@
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="Password"></label>
+            <input asp-for="Password" type="password" class="form-control" placeholder="Password" />
+            <span asp-validation-for="Password" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-4">
+            <label asp-for="ConfirmPassword"></label>
+            <input asp-for="ConfirmPassword" type="password" class="form-control" placeholder="Confirm Password" />
+            <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Sign Up</button>
+        <a asp-action="Index" asp-controller="BlogPost" class="btn btn-secondary">Back</a>
+    </form>
+</div>
